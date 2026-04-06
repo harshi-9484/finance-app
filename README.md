@@ -37,3 +37,8 @@ flutter run
 
 Harshitha Arikeri  
 GitHub: https://github.com/yourusername
+
+## 🔮 Future Improvements
+- Firebase integration
+- Local database (SQLite)
+- Charts visualization
