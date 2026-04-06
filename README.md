@@ -35,4 +35,5 @@ flutter run
 
 ## 👩‍💻 Author
 
-Harshitha Arikeri
+Harshitha Arikeri  
+GitHub: https://github.com/yourusername
