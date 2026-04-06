@@ -32,3 +32,7 @@ A simple and user-friendly finance tracking application built using Flutter.
 ```bash
 flutter pub get
 flutter run
+
+## 👩‍💻 Author
+
+Harshitha Arikeri
